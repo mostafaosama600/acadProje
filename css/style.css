@@ -58,3 +58,27 @@ color:white !important;
 }
 /* end of counter  */
 
+/* start of students */
+.Students{
+    height: 100vh;
+}
+.student-img{
+    width: 80px;
+    height:80px;
+}
+.name{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 0;
+    color: #111111;
+}
+.title{
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #1eb2a6;
+    font-weight: 500;
+}
+.control{
+    background-color:#1EB2A6;
+}
+/* end of students */
