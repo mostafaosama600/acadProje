@@ -34,3 +34,27 @@ color:white !important;
  }
 /* end of online learning  */
 
+/* start of counter  */
+
+.counter{
+    background-image: url(../imgs/bg.webp);
+    height: 30vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+/* fw-bolder */
+.num{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+}
+.text{
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+}
+/* end of counter  */
+
